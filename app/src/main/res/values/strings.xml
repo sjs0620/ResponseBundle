@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ResponseBundle</string>
+    <string name="textViewAtitle">Response Bundle</string>
+    <string name="editTextName">이름을 입력하세요</string>
+    <string name="buttonAFirst">First Button</string>
+    <string name="textBTitle">Explicit Intent</string>
+    <string name="textViewBSingleName">SingleName:</string>
+    <string name="textViewBBundleName">bundleName:</string>
+    <string name="editTextBMessage">Result Value</string>
+    <string name="buttonBMain">Main Activity</string>
+</resources>
